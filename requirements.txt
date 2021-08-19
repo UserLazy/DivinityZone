@@ -35,7 +35,7 @@ httplib2>=0.18.0
 humanize 
 lxml
 oauth2client
-Pillow>=6.0.0
+Pillow>=8.3.1
 fontTools
 psycopg2
 psycopg2-binary
@@ -62,8 +62,8 @@ redis>=3.3.10
 PyDrive2
 pyDownload
 beautifulsoup4>=4.8.1
-youtube-dl
-youtube_dl
+youtube-dl==2021.06.06
+youtube_dl==2021.06.06
 PyGithub
 bs4
 covid>=2.2.9
@@ -102,4 +102,4 @@ wordcloud
 scikit-image
 pendulum
 opencv-python
-youtube-search-python
+youtube-search-python==1.4.6
