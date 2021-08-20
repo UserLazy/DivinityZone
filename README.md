@@ -1,4 +1,4 @@
-<a href="https://www.instagram.com/bangboynih?r=nametag"><img src="https://telegra.ph/file/cc0521c79802ff1d705e0.jpg" width="520" height="209" alt="  RAM-UBOT" /></a>
+<a href="https://www.instagram.com/bangboynih?r=nametag"><img src="https://telegra.ph/file/0e08ebfd183b4726478d7.jpg" width="550" height="211" alt="  RAM-UBOT" /></a>
 
 <p align="center">
   <a href="https://github.com/divinity099/DivinityZone/fork">
