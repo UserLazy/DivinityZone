@@ -1,22 +1,22 @@
-<a href="https://www.instagram.com/ramadh20?r=nametag"><img src="https://images.cooltext.com/5537105.png" width="320" height="211" alt="  RAM-UBOT" /></a>
+<a href="https://www.instagram.com/bangboynih?r=nametag"><img src="https://telegra.ph/file/cc0521c79802ff1d705e0.jpg" width="520" height="209" alt="  RAM-UBOT" /></a>
 
 <p align="center">
-  <a href="https://github.com/ramadhani892/RAM-UBOT/fork">
-    <img src="https://img.shields.io/github/forks/ramadhani892/RAM-UBOT?label=Fork&style=social">
+  <a href="https://github.com/divinity099/DivinityZone/fork">
+    <img src="https://img.shields.io/github/forks/divinity099/DivinityZone?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/ramadhani892/RAM-UBOT">
-    <img src="https://img.shields.io/github/stars/ramadhani892/RAM-UBOT?style=social">
+  <a href="https://github.com/divinity099/DivinityZone">
+    <img src="https://img.shields.io/github/stars/divinity099/DivinityZone?style=social">
   </a>
 </p>  
 
-![VIEWS](https://komarev.com/ghpvc/?username=ramadhani892)
+![VIEWS](https://komarev.com/ghpvc/?username=divinity099)
 
 <a href="https://t.me/ramubotspam"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
 
 ## PEMILIK REPO
-* **Landak** 🦔
-[<img src="https://media.giphy.com/media/o97Wl6qaoJytXcppUj/giphy.gif">](https://t.me/maafgausahsokap)
+* **DivinityZone** ⚡
+[<img src="https://telegra.ph/file/4e8854bca90d13d4ae811.jpg">](https://t.me/Itsmebangboy)
 
   
   
@@ -27,25 +27,23 @@
 
 ### JOIN DULU TOT!!:
 
-<a href="https://t.me/ramubotinfo"><img src="https://img.shields.io/badge/Channel%20RAM%20UBOT-red.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/teman_random"><img src="https://img.shields.io/badge/Join-TEMAN%20RANDOM-purple.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/cecancogansinilah"><img src="https://img.shields.io/badge/Channel%20DIVINITY%20ZONE-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/MutualanParjamban"><img src="https://img.shields.io/badge/Join-Mutualan%20Parjamban-purple.svg?style=for-the-badge&logo=Telegram"></a>
 
 ## Penjelasan:
 * **Repo Nya toxic, Gajelas pokoknya mah.** 
-[<img src="https://telegra.ph/file/be5a4a2cb6aac37ca7945.jpg">](https://t.me/ootspambott)
+[<img src="https://telegra.ph/file/49e658baad2f60632e1e4.jpg">](https://t.me/MutualanParjamban)
 
 
-<h3 align="center">REPO RAM UBOT DIBUAT KARNA YAA MEMANG PENGEN DIBUAT WKWKWK.</h3>
+<h3 align="center">REPO DivinityZone DICIPTAKAN KARNA GABUT DOANG WKWKWK.</h3>
 <p align="center">&nbsp;</p>
-
-### <a href="https://t.me/ootspambot"><img src="https://img.shields.io/badge/GROUP%20SPAM%20RAM%20UBOT-blue?style=flat&logo=Telegram" width="250" height="40.100" />
 
 
 ## Bagaimana Cara Deploy?
 
 
 * **VIDEO TUTORIAL DEPLOY!** 🔧
-[<img src="https://media.giphy.com/media/XD4BoRtenzE1eTIHzZ/giphy.gif">](https://t.me/UserbotChannel/36)
+[<img src="https://telegra.ph/file/5a72ea82dedf3c4e8ffee.jpg">](https://t.me/UserbotChannel/36)
 
 ### AMBIL STRING DI BAWAH INI:
 
