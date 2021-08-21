@@ -1,7 +1,7 @@
 {
-  "name": "RAM-UBOT",
-  "description": "[RAM-UBOT] USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
-  "logo": "https://telegra.ph/file/be5a4a2cb6aac37ca7945.jpg",
+  "name": "DivinityZone",
+  "description": "[DivinityZone] USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
+  "logo": "https://telegra.ph/file/49e658baad2f60632e1e4.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ramadhani892/RAM-UBOT",
-  "telegram": "https://t.me/Ramadhaniiiiiii1",
-  "success_url": "https://t.me/teman_random",
+  "repository": "https://github.com/divinity099/DivinityZone",
+  "telegram": "https://t.me/bangboynih",
+  "success_url": "https://t.me/MutualanParjamban",
   "stack": "container",
   "env": {
     "API_KEY": {
