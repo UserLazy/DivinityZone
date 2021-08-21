@@ -12,7 +12,7 @@ async def typewriter(typew):
     await typew.edit("𝘼𝙎'𝙎𝘼𝙇𝘼𝙈𝙐𝘼𝙇𝘼𝙄𝙆𝙐𝙈")
 
 
-@register(outgoing=True, pattern='^.ast(?: |$)(.*)')
+@register(outgoing=True, pattern='^F(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
     await typew.edit("𝘼𝙎𝙏𝘼𝙂𝙁𝙄𝙍𝙐𝙇𝙇𝘼𝙃....")
@@ -155,10 +155,8 @@ CMD_HELP.update({
 \nUsage: teruntuk petarung.\
 \n\nH\
 \nUsage: Coba dewek ah.\
-\n\n.ast\
-\nUsage: Istighfar 1.\
-\n\n.ast\
-\nUsage: Istighfar 2.\
+\n\nF\
+\nUsage: Istighfar.\
 \n\nO\
 \nUsage: Ngatain org norak.\
 \n\nG\
