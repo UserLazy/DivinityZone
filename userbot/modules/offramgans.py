@@ -174,15 +174,15 @@ async def _(event):
                 if pic.endswith((".tgs", ".webp")):
                     await bot.send_message(event.chat_id, file=pic)
                     await bot.send_message(
-                        event.chat_id, f"𝗣𝗘𝗧𝗜𝗥 𝗠𝗔𝗦𝗦𝗔𝗚𝗘\n\n𝐎𝐅𝐅𝐋𝐈𝐍𝐄\n\n**▸ {ALIVE_NAME} 𝐋𝐚𝐠𝐢 𝐎𝐟𝐟𝐥𝐢𝐧𝐞**\n**▸ ᴋᴀʀᴇɴᴀ :** `{reason}`\n╰✠╼━━━━━━━━━"
+                        event.chat_id, f"𝗣𝗘𝗧𝗜𝗥 𝗠𝗔𝗦𝗦𝗔𝗚𝗘\n\n𝐎𝐅𝐅𝐋𝐈𝐍𝐄\n\n**▸ {ALIVE_NAME} 𝐋𝐚𝐠𝐢 𝐎𝐟𝐟𝐥𝐢𝐧𝐞**\n**▸ ᴋᴀʀᴇɴᴀ :** `{reason}`\n"
                     )
                 else:
                     await bot.send_message(
-                        event.chat_id, f"𝗣𝗘𝗧𝗜𝗥 𝗠𝗔𝗦𝗦𝗔𝗚𝗘\n\n𝐎𝐅𝐅𝐋𝐈𝐍𝐄\n\n**▸ {ALIVE_NAME} 𝐋𝐚𝐠𝐢 𝐎𝐟𝐟𝐥𝐢𝐧𝐞**\n**▸ ᴋᴀʀᴇɴᴀ :** `{reason}`\n╰✠╼━━━━━━━━━", file=pic
+                        event.chat_id, f"𝗣𝗘𝗧𝗜𝗥 𝗠𝗔𝗦𝗦𝗔𝗚𝗘\n\n𝐎𝐅𝐅𝐋𝐈𝐍𝐄\n\n**▸ {ALIVE_NAME} 𝐋𝐚𝐠𝐢 𝐎𝐟𝐟𝐥𝐢𝐧𝐞**\n**▸ ᴋᴀʀᴇɴᴀ :** `{reason}`\n", file=pic
                     )
             except BaseException:
                 await bot.send_message(
-                    event.chat_id, f"𝗣𝗘𝗧𝗜𝗥 𝗠𝗔𝗦𝗦𝗔𝗚𝗘\n\n𝐎𝐅𝐅𝐋𝐈𝐍𝐄\n\n**▸ {ALIVE_NAME} 𝐋𝐚𝐠𝐢 𝐎𝐟𝐟𝐥𝐢𝐧𝐞**\n**▸ ᴋᴀʀᴇɴᴀ :** `{reason}`\n╰✠╼━━━━━━━━━"
+                    event.chat_id, f"𝗣𝗘𝗧𝗜𝗥 𝗠𝗔𝗦𝗦𝗔𝗚𝗘\n\n𝐎𝐅𝐅𝐋𝐈𝐍𝐄\n\n**▸ {ALIVE_NAME} 𝐋𝐚𝐠𝐢 𝐎𝐟𝐟𝐥𝐢𝐧𝐞**\n**▸ ᴋᴀʀᴇɴᴀ :** `{reason}`\n"
                 )
         else:
             try:
