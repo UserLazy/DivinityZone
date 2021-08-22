@@ -278,7 +278,6 @@ async def amireallyalive(alive):
         f"⚡ **Versi Bot**      ➥ `7.0` \n"
         f"⚡ **Modul**           ➥ `{len(modules)}` \n\n"
         f"****\n"
-        f"[OWNER](https://t.me/Itsmebangboy) \n
         f"[{REPO_NAME}](https://github.com/divinity099/DivinityZone) || [𝐆𝐑𝐎𝐔𝐏]({GROUP_LINK}) || [𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌]({IG_ALIVE}) \n
         f"")
     if ALIVE_LOGO:
@@ -320,7 +319,6 @@ async def amireallyalive(alive):
         f"•❯ `Bot Ver  :`7.0 \n"
         f"•❯ `Modules  :`{len(modules)} Modules \n"
         f" \n"
-        f"[OWNER](https://t.me/Itsmebangboy) \n
         f"[{REPO_NAME}](https://github.com/divinity099/DivinityZone) || [𝐆𝐑𝐎𝐔𝐏]({GROUP_LINK}) || [𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌]({IG_ALIVE}) \n
         f"")
     if ALIVE_LOGO:
