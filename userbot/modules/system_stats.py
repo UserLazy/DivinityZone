@@ -279,7 +279,7 @@ async def amireallyalive(alive):
         f"⚡ **Modul**           ➥ `{len(modules)}` \n"
         f" \n"
         f"[{REPO_NAME}](https://github.com/divinity099/DivinityZone) || [𝗚𝗥𝗢𝗨𝗣]({GROUP_LINK}) || [𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠]({IG_ALIVE}) \n"
-        f"****")
+        f"")
     if ALIVE_LOGO:
         try:
             logo = ALIVE_LOGO
