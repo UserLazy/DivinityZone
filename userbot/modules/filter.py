@@ -39,7 +39,7 @@ async def filter_incoming_handler(handler):
         pass
 
 
-@register(outgoing=True, pattern=r"^Fltr (.*)")
+@register(outgoing=True, pattern=r"^ftr (.*)")
 async def add_new_filter(new_handler):
     """ For .filter command, allows adding new filters in a chat """
     try:
